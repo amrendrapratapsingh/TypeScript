@@ -1,0 +1,17 @@
+**********************Data Type FOr TypeScript********
+TypeScript is open source Programming language developed and maintained by Microsoft
+and it is strict syntatical superset of javaScript and adds optional static typing
+to the language.
+
+1)Number
+2)String
+3)Boolean
+4)Array
+5)Any
+6)Void
+7)undefined
+8)null
+9)Enum
+10)Tupple
+11)object
+12))Never
